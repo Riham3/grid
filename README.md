@@ -37,3 +37,11 @@ Click and drag to move the image. Scroll or pinch to zoom. The image is clipped 
 Click **Export** to download as an image file. The rounded corners are preserved as transparent. 
  
 Modifying the template in any way clears the uploaded images. The customization remains exactly as it is.
+
+## Desktop Preview
+
+<img width="2208" height="1113" alt="IMG_4625" src="https://github.com/user-attachments/assets/953cdadd-18c4-4e06-abd7-8a645000e881" />
+
+## Mobile Preview
+
+<img width="1242" height="2008" alt="IMG_4640" src="https://github.com/user-attachments/assets/30d537f9-b7ab-462e-a2e7-c5db4e9aadf7" />
